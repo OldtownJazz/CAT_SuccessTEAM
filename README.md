@@ -1,1 +1,2 @@
-# CAT_SuccessTEAM
+고양이는 귀여워
+고양이는 짜릿해
